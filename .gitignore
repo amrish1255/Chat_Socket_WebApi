@@ -1,0 +1,13 @@
+bin/
+obj/
+*.user
+*.rsuser
+*.suo
+*.swp
+*.tmp
+*.log
+*.cache
+*.bak
+.vs/
+.vscode/
+
